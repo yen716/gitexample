@@ -7,6 +7,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     String test = "測試";
     int xxx = 1234;
+    String test2 = "測試 Reset";
+
 
 
     @Override
